@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="smail">
+
+        <attr name="star_img" format="reference"></attr>
+        <attr name="unstar_img" format="reference"></attr>
+
+        <attr name="img_width" format="dimension"></attr>
+        <attr name="img_height" format="dimension"></attr>
+
+        <attr name="img_padding" format="dimension"></attr>
+
+        <attr name="star_count" format="integer"></attr>
+
+        <attr name="starnum" format="integer"></attr>
+
+        <attr name="clickable" format="boolean"></attr>
+    </declare-styleable>
+
+
+
+</resources>
